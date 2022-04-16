@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371518679307",
+    "firebase_url": "https://funfire-6fde8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "funfire-6fde8",
+    "storage_bucket": "funfire-6fde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371518679307:android:adcfa1011675b37bd0da0e",
+        "android_client_info": {
+          "package_name": "com.ssnp.funfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371518679307-d22r4qnsuq090apb7la40vuqthq03o5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEEI0Kc-AolnXC8gKbQLUB96e3xJX_vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371518679307-d22r4qnsuq090apb7la40vuqthq03o5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
